@@ -50,7 +50,7 @@ Once you are ready, follow the guide below:
 
     ::
 
-        diskutil partitionDisk disk# MBR fat32 "SWITCH" PutSizeHere fat32 "EMUMMC" 31306285056
+        diskutil partitionDisk disk# MBR fat32 "CFW" PutSizeHere fat32 "EMUMMC" 31306285056
 
     .. image:: ../images/mac/Step5.png
 
